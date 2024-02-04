@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704922506956",
+    "project_id": "mess-app-e70c9",
+    "storage_bucket": "mess-app-e70c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704922506956:android:09c4f51975832e04461469",
+        "android_client_info": {
+          "package_name": "com.example.messapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALGaoKJPfVywGDRNpHDwA_uqKMyh-DyGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
